@@ -1,0 +1,17 @@
+langchain-ibm==0.3.10
+langchain==0.3.23
+langchain_community==0.3.21
+langchain-openai==0.3.27
+langgraph==0.6.6
+pygraphviz==1.14
+docling==2.15.0
+docling-core==2.16.0
+docling-ibm-models==3.3.0
+docling-parse==3.1.2
+langchain-text-splitters==0.3.5
+unstructured[ocr]==0.16.17
+langfuse
+python-dotenv
+pymupdf
+chromadb
+rank_bm25
