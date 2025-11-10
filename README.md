@@ -21,6 +21,20 @@ Create and activate a virtual environment:
 	source .venv/bin/activate
 	```
 
+
+## Environment Variables
+
+Before running the application, create a `.env` file in the project root with the following keys:
+
+```env
+OPENAI_API_KEY=your_openai_api_key
+LANGFUSE_SECRET_KEY=your_langfuse_secret_key
+LANGFUSE_PUBLIC_KEY=your_langfuse_public_key
+LANGFUSE_BASE_URL=your_langfuse_base_url
+```
+
+Replace each value with your actual API credentials.
+
 Continue with the run instructions below.
 
 ## How to Run the Application
